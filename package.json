@@ -1,0 +1,19 @@
+{
+  "name": "skypebot",
+  "version": "1.0.0",
+  "description": "skypebot test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamara",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^5.2.0"
+  },
+  "engines": {
+    "node": "6.11.2"
+  }
+}
